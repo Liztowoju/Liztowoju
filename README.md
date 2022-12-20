@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Liztowoju
-- 👀 I’m interested in becoming a full-stack javascript/React/PHP Engineer
-- 🌱 I’m currently learning Javascipt
-- 💞️ I’m looking to collaborate on projects that are suitable for junior web Engineers
+- 👀 I’m interested in React.js opportunities
+- 🌱 I’m currently building static, dynamic, single page web applications using React components and hooks.
+- 💞️ I’m looking to collaborate on projects that are suitable for junior React Engineers
 - 📫 liztowoju@gmail.com
 
 <!---
