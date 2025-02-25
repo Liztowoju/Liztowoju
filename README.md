@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Liztowoju
-- 🌱 I currently work to support some of Automattic's plugins and mobile apps.
   
 
 <!---
